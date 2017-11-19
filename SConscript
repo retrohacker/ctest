@@ -1,0 +1,3 @@
+Library("ctest", [
+    "test.c",
+])
