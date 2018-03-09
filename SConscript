@@ -1,3 +1,3 @@
 Library("ctest", [
-    "test.c",
+    "ctest.c",
 ])
