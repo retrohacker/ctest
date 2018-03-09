@@ -1,5 +1,5 @@
-#ifndef TEST_HEADER
-#define TEST_HEADER
+#ifndef CTEST_HEADER
+#define CTEST_HEADER
 enum test_state_t { PASS, FAIL };
 typedef enum test_state_t test_state;
 typedef struct {
